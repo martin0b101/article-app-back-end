@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "atBDPzl3pzpRrfl9ta/iedTDoZA2wyirqleeI38oBM0=",
+  "Source": "Articles",
+  "BasePath": "_content/Articles",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Articles/wwwroot",
+      "Source": "Articles",
+      "ContentRoot": "/Users/martin/Downloads/Candidate/Articles/wwwroot/",
+      "BasePath": "_content/Articles",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
